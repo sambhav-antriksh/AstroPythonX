@@ -1,2 +1,2 @@
 # AstroPythonX
-Codes in Python for Astronomy and Astrophysics -- 
+-- Codes in Python for Astronomy and Astrophysics -- 
